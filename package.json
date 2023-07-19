@@ -1,0 +1,20 @@
+{
+  "name": "@laam/log",
+  "version": "1.0.0",
+  "description": "This is a package to log colorize versions of text",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "orangetoolz",
+    "color"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
