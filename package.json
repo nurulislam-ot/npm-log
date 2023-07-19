@@ -12,9 +12,13 @@
     "orangetoolz",
     "color"
   ],
-  "author": "",
+  "author": "Muhammad Laam",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nurulislam-ot/npm-log"
   }
 }
